@@ -1,5 +1,5 @@
 {
-  "name": "@fortressdex/deploy-v3",
+  "name": "@fortressdex/deploythefinal-v3",
   "version": "1.0.4",
   "description": "Deploy Uniswap V3 smart contracts",
   "bin": {
