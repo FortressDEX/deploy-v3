@@ -5,9 +5,6 @@
   "bin": {
     "deploy-v3": "dist/index.js"
   },
-  "publishConfig": {
-    "access": "restricted"
-  },
   "main": "dist/index.js",
   "scripts": {
     "test": "mocha",
