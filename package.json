@@ -1,5 +1,5 @@
 {
-  "name": "@fortressdex/deploythefinal-v3",
+  "name": "@cndllabs/deploy-v3",
   "version": "1.0.4",
   "description": "Deploy Uniswap V3 smart contracts",
   "bin": {
@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/deploy-v3.git"
+    "url": "git+https://github.com/fortressdex/deploy-v3.git"
   },
-  "author": "Uniswap Labs <contact@uniswap.org> (https://uniswap.org)",
+  "author": "candle labs  <contact@candlelabs.org> (https://candlelabs.org)",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/deploy-v3/issues"
+    "url": "https://github.com/fortressdex/deploy-v3/issues"
   },
-  "homepage": "https://uniswap.org",
+  "homepage": "https://candlelabs.org",
   "devDependencies": {
     "@ethersproject/abstract-signer": "^5.5.0",
     "@ethersproject/address": "^5.5.0",
